@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="DoubleM">
+</Property><Property Name="Solution File" Value="C:\Deepak\DoubleM\DoubleM.sln">
+</Property><Property Name="User Options File" Value="C:\Deepak\DoubleM\DoubleM.suo">
+</Property><Property Name="Date" Value="Wednesday, February 11, 2009">
+</Property><Property Name="Time" Value="20:17 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="DoubleM.sln" Description="File successfully backed up as C:\Deepak\DoubleM\Backup\DoubleM.sln">
+</Event><Event ErrorLevel="0" Project="" Source="DoubleM.suo" Description="File successfully backed up as C:\Deepak\DoubleM\Backup\DoubleM.suo">
+</Event><Event ErrorLevel="0" Project="DoubleM" Source="DoubleM.csproj" Description="Project file successfully backed up as C:\Deepak\DoubleM\Backup\DoubleM.csproj">
+</Event><Event ErrorLevel="0" Project="DoubleM" Source="AppWRDoubleM.cs" Description="File successfully backed up as C:\Deepak\DoubleM\Backup\AppWRDoubleM.cs">
+</Event><Event ErrorLevel="0" Project="DoubleM" Source="DataGridViewPrinter.cs" Description="File successfully backed up as C:\Deepak\DoubleM\Backup\DataGridViewPrinter.cs">
+</Event><Event ErrorLevel="0" Project="DoubleM" Source="frmOnlinePortfolio.cs" Description="File successfully backed up as C:\Deepak\DoubleM\Backup\frmOnlinePortfolio.cs">
+</Event><Event ErrorLevel="0" Project="DoubleM" Source="frmOnlinePortfolio.Designer.cs" Description="File successfully backed up as C:\Deepak\DoubleM\Backup\frmOnlinePortfolio.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DoubleM" Source="CryptorEngine.cs" Description="File successfully backed up as C:\Deepak\DoubleM\Backup\CryptorEngine.cs">
+</Event><Event ErrorLevel="0" Project="DoubleM" Source="ExcelDoubleM.cs" Description="File successfully backed up as C:\Deepak\DoubleM\Backup\ExcelDoubleM.cs">
+</Event><Event ErrorLevel="0" Project="DoubleM" Source="frmWatchlist.cs" Description="File successfully backed up as C:\Deepak\DoubleM\Backup\frmWatchlist.cs">
+</Event><Event ErrorLevel="0" Project="DoubleM" Source="frmWatchlist.Designer.cs" Description="File successfully backed up as C:\Deepak\DoubleM\Backup\frmWatchlist.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DoubleM" Source="frmCatGraph.cs" Description="File successfully backed up as C:\Deepak\DoubleM\Backup\frmCatGraph.cs">
+</Event><Event ErrorLevel="0" Project="DoubleM" Source="frmCatGraph.Designer.cs" Description="File successfully backed up as C:\Deepak\DoubleM\Backup\frmCatGraph.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DoubleM" Source="DALDoubleM.cs" Description="File successfully backed up as C:\Deepak\DoubleM\Backup\DALDoubleM.cs">
+</Event><Event ErrorLevel="0" Project="DoubleM" Source="CommonDoubleM.cs" Description="File successfully backed up as C:\Deepak\DoubleM\Backup\CommonDoubleM.cs">
+</Event><Event ErrorLevel="0" Project="DoubleM" Source="Form1.cs" Description="File successfully backed up as C:\Deepak\DoubleM\Backup\Form1.cs">
+</Event><Event ErrorLevel="0" Project="DoubleM" Source="Form1.Designer.cs" Description="File successfully backed up as C:\Deepak\DoubleM\Backup\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DoubleM" Source="frmWorkSheet.cs" Description="File successfully backed up as C:\Deepak\DoubleM\Backup\frmWorkSheet.cs">
+</Event><Event ErrorLevel="0" Project="DoubleM" Source="frmWorkSheet.Designer.cs" Description="File successfully backed up as C:\Deepak\DoubleM\Backup\frmWorkSheet.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DoubleM" Source="frmlAvgView.cs" Description="File successfully backed up as C:\Deepak\DoubleM\Backup\frmlAvgView.cs">
+</Event><Event ErrorLevel="0" Project="DoubleM" Source="frmlAvgView.Designer.cs" Description="File successfully backed up as C:\Deepak\DoubleM\Backup\frmlAvgView.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DoubleM" Source="frmMain.cs" Description="File successfully backed up as C:\Deepak\DoubleM\Backup\frmMain.cs">
+</Event><Event ErrorLevel="0" Project="DoubleM" Source="frmMain.Designer.cs" Description="File successfully backed up as C:\Deepak\DoubleM\Backup\frmMain.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DoubleM" Source="frmNewTrad.cs" Description="File successfully backed up as C:\Deepak\DoubleM\Backup\frmNewTrad.cs">
+</Event><Event ErrorLevel="0" Project="DoubleM" Source="frmNewTrad.Designer.cs" Description="File successfully backed up as C:\Deepak\DoubleM\Backup\frmNewTrad.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DoubleM" Source="frmTrendGr.cs" Description="File successfully backed up as C:\Deepak\DoubleM\Backup\frmTrendGr.cs">
+</Event><Event ErrorLevel="0" Project="DoubleM" Source="frmTrendGr.Designer.cs" Description="File successfully backed up as C:\Deepak\DoubleM\Backup\frmTrendGr.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DoubleM" Source="frmStocks.cs" Description="File successfully backed up as C:\Deepak\DoubleM\Backup\frmStocks.cs">
+</Event><Event ErrorLevel="0" Project="DoubleM" Source="frmStocks.Designer.cs" Description="File successfully backed up as C:\Deepak\DoubleM\Backup\frmStocks.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DoubleM" Source="frmTradingHist.cs" Description="File successfully backed up as C:\Deepak\DoubleM\Backup\frmTradingHist.cs">
+</Event><Event ErrorLevel="0" Project="DoubleM" Source="frmTradingHist.Designer.cs" Description="File successfully backed up as C:\Deepak\DoubleM\Backup\frmTradingHist.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DoubleM" Source="PrintOptions.cs" Description="File successfully backed up as C:\Deepak\DoubleM\Backup\PrintOptions.cs">
+</Event><Event ErrorLevel="0" Project="DoubleM" Source="PrintOptions.designer.cs" Description="File successfully backed up as C:\Deepak\DoubleM\Backup\PrintOptions.designer.cs">
+</Event><Event ErrorLevel="0" Project="DoubleM" Source="Program.cs" Description="File successfully backed up as C:\Deepak\DoubleM\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="DoubleM" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Deepak\DoubleM\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="DoubleM" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Deepak\DoubleM\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DoubleM" Source="Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Deepak\DoubleM\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DoubleM" Source="Properties\Settings.settings" Description="File successfully backed up as C:\Deepak\DoubleM\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="DoubleM" Source="App.config" Description="File successfully backed up as C:\Deepak\DoubleM\Backup\App.config">
+</Event><Event ErrorLevel="0" Project="DoubleM" Source="Img\Check11.ico" Description="File successfully backed up as C:\Deepak\DoubleM\Backup\Img\Check11.ico">
+</Event><Event ErrorLevel="0" Project="DoubleM" Source="Img\DoubleM.jpg" Description="File successfully backed up as C:\Deepak\DoubleM\Backup\Img\DoubleM.jpg">
+</Event><Event ErrorLevel="0" Project="DoubleM" Source="Img\DoubleMMoney.jpg" Description="File successfully backed up as C:\Deepak\DoubleM\Backup\Img\DoubleMMoney.jpg">
+</Event><Event ErrorLevel="0" Project="DoubleM" Source="Img\reddot1.gif" Description="File successfully backed up as C:\Deepak\DoubleM\Backup\Img\reddot1.gif">
+</Event><Event ErrorLevel="0" Project="DoubleM" Source="Img\redball.gif" Description="File successfully backed up as C:\Deepak\DoubleM\Backup\Img\redball.gif">
+</Event><Event ErrorLevel="0" Project="DoubleM" Source="Img\red_star.gif" Description="File successfully backed up as C:\Deepak\DoubleM\Backup\Img\red_star.gif">
+</Event><Event ErrorLevel="0" Project="DoubleM" Source="Img\green_star.gif" Description="File successfully backed up as C:\Deepak\DoubleM\Backup\Img\green_star.gif">
+</Event><Event ErrorLevel="0" Project="DoubleM" Source="Pics\graph041.ico" Description="File successfully backed up as C:\Deepak\DoubleM\Backup\Pics\graph041.ico">
+</Event><Event ErrorLevel="0" Project="DoubleM" Source="Resources\Print.bmp" Description="File successfully backed up as C:\Deepak\DoubleM\Backup\Resources\Print.bmp">
+</Event><Event ErrorLevel="0" Project="DoubleM" Source="Resources\Excel-16.gif" Description="File successfully backed up as C:\Deepak\DoubleM\Backup\Resources\Excel-16.gif">
+</Event><Event ErrorLevel="0" Project="DoubleM" Source="Resources\Image1.jpg" Description="File successfully backed up as C:\Deepak\DoubleM\Backup\Resources\Image1.jpg">
+</Event><Event ErrorLevel="0" Project="DoubleM" Source="Learnings.txt" Description="File successfully backed up as C:\Deepak\DoubleM\Backup\Learnings.txt">
+</Event><Event ErrorLevel="0" Project="DoubleM" Source="Pics\Check1.ico" Description="File successfully backed up as C:\Deepak\DoubleM\Backup\Pics\Check1.ico">
+</Event><Event ErrorLevel="0" Project="DoubleM" Source="Pics\Start.ico" Description="File successfully backed up as C:\Deepak\DoubleM\Backup\Pics\Start.ico">
+</Event><Event ErrorLevel="0" Project="DoubleM" Source="frmMain.resx" Description="File successfully backed up as C:\Deepak\DoubleM\Backup\frmMain.resx">
+</Event><Event ErrorLevel="0" Project="DoubleM" Source="Properties\Resources.resx" Description="File successfully backed up as C:\Deepak\DoubleM\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="DoubleM" Source="frmNewTrad.resx" Description="File successfully backed up as C:\Deepak\DoubleM\Backup\frmNewTrad.resx">
+</Event><Event ErrorLevel="0" Project="DoubleM" Source="frmStocks.resx" Description="File successfully backed up as C:\Deepak\DoubleM\Backup\frmStocks.resx">
+</Event><Event ErrorLevel="0" Project="DoubleM" Source="Pics\der.ico" Description="File successfully backed up as C:\Deepak\DoubleM\Backup\Pics\der.ico">
+</Event><Event ErrorLevel="0" Project="DoubleM" Source="frmOnlinePortfolio.resx" Description="File successfully backed up as C:\Deepak\DoubleM\Backup\frmOnlinePortfolio.resx">
+</Event><Event ErrorLevel="0" Project="DoubleM" Source="frmWatchlist.resx" Description="File successfully backed up as C:\Deepak\DoubleM\Backup\frmWatchlist.resx">
+</Event><Event ErrorLevel="0" Project="DoubleM" Source="frmCatGraph.resx" Description="File successfully backed up as C:\Deepak\DoubleM\Backup\frmCatGraph.resx">
+</Event><Event ErrorLevel="0" Project="DoubleM" Source="Form1.resx" Description="File successfully backed up as C:\Deepak\DoubleM\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="DoubleM" Source="frmWorkSheet.resx" Description="File successfully backed up as C:\Deepak\DoubleM\Backup\frmWorkSheet.resx">
+</Event><Event ErrorLevel="0" Project="DoubleM" Source="frmlAvgView.resx" Description="File successfully backed up as C:\Deepak\DoubleM\Backup\frmlAvgView.resx">
+</Event><Event ErrorLevel="0" Project="DoubleM" Source="frmTrendGr.resx" Description="File successfully backed up as C:\Deepak\DoubleM\Backup\frmTrendGr.resx">
+</Event><Event ErrorLevel="0" Project="DoubleM" Source="frmTradingHist.resx" Description="File successfully backed up as C:\Deepak\DoubleM\Backup\frmTradingHist.resx">
+</Event><Event ErrorLevel="0" Project="DoubleM" Source="Pics\Colors.ico" Description="File successfully backed up as C:\Deepak\DoubleM\Backup\Pics\Colors.ico">
+</Event><Event ErrorLevel="0" Project="DoubleM" Source="PrintOptions.resx" Description="File successfully backed up as C:\Deepak\DoubleM\Backup\PrintOptions.resx">
+</Event><Event ErrorLevel="0" Project="DoubleM" Source="DoubleM.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="DoubleM" Source="DoubleM.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="DoubleM.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="DoubleM.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DoubleM" Source="DoubleM.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

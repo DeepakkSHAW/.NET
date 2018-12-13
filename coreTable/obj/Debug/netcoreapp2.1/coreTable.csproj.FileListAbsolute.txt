@@ -1,0 +1,11 @@
+C:\DKLAB\DeepakNET\coreTable\bin\Debug\netcoreapp2.1\coreTable.deps.json
+C:\DKLAB\DeepakNET\coreTable\bin\Debug\netcoreapp2.1\coreTable.runtimeconfig.json
+C:\DKLAB\DeepakNET\coreTable\bin\Debug\netcoreapp2.1\coreTable.runtimeconfig.dev.json
+C:\DKLAB\DeepakNET\coreTable\bin\Debug\netcoreapp2.1\coreTable.dll
+C:\DKLAB\DeepakNET\coreTable\bin\Debug\netcoreapp2.1\coreTable.pdb
+C:\DKLAB\DeepakNET\coreTable\obj\Debug\netcoreapp2.1\coreTable.csproj.CoreCompileInputs.cache
+C:\DKLAB\DeepakNET\coreTable\obj\Debug\netcoreapp2.1\coreTable.AssemblyInfoInputs.cache
+C:\DKLAB\DeepakNET\coreTable\obj\Debug\netcoreapp2.1\coreTable.AssemblyInfo.cs
+C:\DKLAB\DeepakNET\coreTable\obj\Debug\netcoreapp2.1\coreTable.dll
+C:\DKLAB\DeepakNET\coreTable\obj\Debug\netcoreapp2.1\coreTable.pdb
+C:\DKLAB\DeepakNET\coreTable\obj\Debug\netcoreapp2.1\coreTable.csprojResolveAssemblyReference.cache

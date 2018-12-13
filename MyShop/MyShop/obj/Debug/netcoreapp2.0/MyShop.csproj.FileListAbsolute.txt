@@ -1,0 +1,11 @@
+C:\DKLAB\DeepakNET\MyShop\MyShop\bin\Debug\netcoreapp2.0\MyShop.deps.json
+C:\DKLAB\DeepakNET\MyShop\MyShop\bin\Debug\netcoreapp2.0\MyShop.runtimeconfig.json
+C:\DKLAB\DeepakNET\MyShop\MyShop\bin\Debug\netcoreapp2.0\MyShop.runtimeconfig.dev.json
+C:\DKLAB\DeepakNET\MyShop\MyShop\bin\Debug\netcoreapp2.0\MyShop.dll
+C:\DKLAB\DeepakNET\MyShop\MyShop\bin\Debug\netcoreapp2.0\MyShop.pdb
+C:\DKLAB\DeepakNET\MyShop\MyShop\obj\Debug\netcoreapp2.0\MyShop.csprojResolveAssemblyReference.cache
+C:\DKLAB\DeepakNET\MyShop\MyShop\obj\Debug\netcoreapp2.0\MyShop.csproj.CoreCompileInputs.cache
+C:\DKLAB\DeepakNET\MyShop\MyShop\obj\Debug\netcoreapp2.0\MyShop.AssemblyInfoInputs.cache
+C:\DKLAB\DeepakNET\MyShop\MyShop\obj\Debug\netcoreapp2.0\MyShop.AssemblyInfo.cs
+C:\DKLAB\DeepakNET\MyShop\MyShop\obj\Debug\netcoreapp2.0\MyShop.dll
+C:\DKLAB\DeepakNET\MyShop\MyShop\obj\Debug\netcoreapp2.0\MyShop.pdb

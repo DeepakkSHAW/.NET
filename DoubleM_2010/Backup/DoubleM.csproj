@@ -1,0 +1,234 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{FD7C2AB3-385A-4FE5-B467-9886D8F2585B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DoubleM</RootNamespace>
+    <AssemblyName>DoubleM</AssemblyName>
+    <ApplicationIcon>Pics\der.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Animations, Version=1.0.0.0, Culture=neutral">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\BarTender\bin\Debug\Animations.dll</HintPath>
+    </Reference>
+    <Reference Include="BarTender, Version=1.1.0.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="PresentationCore, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=x86" />
+    <Reference Include="PresentationFramework, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="ScrollingTextControl, Version=1.0.2683.24269, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="stdole, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UIAutomationProvider, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="WindowsBase, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="ZedGraph, Version=5.0.1.41097, Culture=neutral, PublicKeyToken=02a83cbd123fcd60, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Helps\ZedGraph_Demo_501\zedGraph_demo_5.0.1\ZedGraph.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AppWRDoubleM.cs" />
+    <Compile Include="DataGridViewPrinter.cs" />
+    <Compile Include="frmOnlinePortfolio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOnlinePortfolio.Designer.cs">
+      <DependentUpon>frmOnlinePortfolio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CryptorEngine.cs" />
+    <Compile Include="ExcelDoubleM.cs" />
+    <Compile Include="frmWatchlist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmWatchlist.Designer.cs">
+      <DependentUpon>frmWatchlist.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCatGraph.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCatGraph.Designer.cs">
+      <DependentUpon>frmCatGraph.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DALDoubleM.cs" />
+    <Compile Include="CommonDoubleM.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmWorkSheet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmWorkSheet.Designer.cs">
+      <DependentUpon>frmWorkSheet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmlAvgView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmlAvgView.Designer.cs">
+      <DependentUpon>frmlAvgView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmNewTrad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNewTrad.Designer.cs">
+      <DependentUpon>frmNewTrad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTrendGr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTrendGr.Designer.cs">
+      <DependentUpon>frmTrendGr.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmStocks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStocks.Designer.cs">
+      <DependentUpon>frmStocks.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTradingHist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTradingHist.Designer.cs">
+      <DependentUpon>frmTradingHist.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PrintOptions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrintOptions.designer.cs">
+      <DependentUpon>PrintOptions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmMain.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frmNewTrad.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmNewTrad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStocks.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmStocks.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pics\der.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="Img\Check11.ico" />
+    <None Include="Img\DoubleM.jpg" />
+    <None Include="Img\DoubleMMoney.jpg" />
+    <None Include="Img\reddot1.gif" />
+    <None Include="Img\redball.gif" />
+    <None Include="Img\red_star.gif" />
+    <None Include="Img\green_star.gif" />
+    <Content Include="Learnings.txt" />
+    <Content Include="Pics\Check1.ico" />
+    <None Include="Pics\graph041.ico" />
+    <Content Include="Pics\Start.ico" />
+    <None Include="Resources\Print.bmp" />
+    <None Include="Resources\Excel-16.gif" />
+    <None Include="Resources\Image1.jpg" />
+    <EmbeddedResource Include="frmOnlinePortfolio.resx">
+      <DependentUpon>frmOnlinePortfolio.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmWatchlist.resx">
+      <DependentUpon>frmWatchlist.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCatGraph.resx">
+      <DependentUpon>frmCatGraph.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmWorkSheet.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmWorkSheet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmlAvgView.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmlAvgView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTrendGr.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmTrendGr.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTradingHist.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmTradingHist.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pics\Colors.ico" />
+    <EmbeddedResource Include="PrintOptions.resx">
+      <DependentUpon>PrintOptions.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

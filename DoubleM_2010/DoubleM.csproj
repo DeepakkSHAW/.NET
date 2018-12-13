@@ -1,0 +1,331 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{FD7C2AB3-385A-4FE5-B467-9886D8F2585B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DoubleM</RootNamespace>
+    <AssemblyName>DoubleM</AssemblyName>
+    <ApplicationIcon>Icons\der.ico</ApplicationIcon>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Animations, Version=1.0.0.0, Culture=neutral">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\BarTender\bin\Debug\Animations.dll</HintPath>
+    </Reference>
+    <Reference Include="BarTender, Version=1.1.0.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="PresentationCore, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=x86" />
+    <Reference Include="PresentationFramework, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="ScrollingTextControl, Version=1.0.2683.24269, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="stdole, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.TreeListView, Version=1.0.3400.25776, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Includes\TreeListView_Sources1\TreeListView\TreeListView\bin\Release\System.Windows.Forms.TreeListView.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml" />
+    <Reference Include="UIAutomationProvider, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="WindowsBase, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="ZedGraph, Version=5.0.1.41097, Culture=neutral, PublicKeyToken=02a83cbd123fcd60, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Helps\ZedGraph_Demo_501\zedGraph_demo_5.0.1\ZedGraph.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Classes\AppWRDoubleM.cs" />
+    <Compile Include="Classes\DataGridViewColumnSelector.cs" />
+    <Compile Include="Classes\DataGridViewPrinter.cs" />
+    <Compile Include="Forms\frmReadYF_MR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmReadYF_MR.Designer.cs">
+      <DependentUpon>frmReadYF_MR.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmDataImport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmDataImport.Designer.cs">
+      <DependentUpon>frmDataImport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmDateTime.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmDateTime.Designer.cs">
+      <DependentUpon>frmDateTime.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmMngStockPrice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmMngStockPrice.Designer.cs">
+      <DependentUpon>frmMngStockPrice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmMngStocks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmMngStocks.Designer.cs">
+      <DependentUpon>frmMngStocks.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\CryptorEngine.cs" />
+    <Compile Include="Classes\ExcelDoubleM.cs" />
+    <Compile Include="Forms\frmReadBSE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmReadBSE.Designer.cs">
+      <DependentUpon>frmReadBSE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmCatGraph.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmCatGraph.Designer.cs">
+      <DependentUpon>frmCatGraph.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\DALDoubleM.cs" />
+    <Compile Include="Classes\CommonDoubleM.cs" />
+    <Compile Include="Forms\frmAc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmAc.Designer.cs">
+      <DependentUpon>frmAc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmWorkSheet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmWorkSheet.Designer.cs">
+      <DependentUpon>frmWorkSheet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmlAvgView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmlAvgView.Designer.cs">
+      <DependentUpon>frmlAvgView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmNewTrad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmNewTrad.Designer.cs">
+      <DependentUpon>frmNewTrad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmTrendGr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmTrendGr.Designer.cs">
+      <DependentUpon>frmTrendGr.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmSectors.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmSectors.Designer.cs">
+      <DependentUpon>frmSectors.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmTradingHist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmTradingHist.Designer.cs">
+      <DependentUpon>frmTradingHist.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmYahoo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmYahoo.Designer.cs">
+      <DependentUpon>frmYahoo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\PrintOptions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\PrintOptions.designer.cs">
+      <DependentUpon>PrintOptions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Forms\frmMain.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Forms\frmNewTrad.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmNewTrad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmSectors.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmSectors.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="Icons\61.ico" />
+    <None Include="Icons\WAV.ico" />
+    <None Include="Icons\Exclaimation.ico" />
+    <None Include="Icons\Universal.ico" />
+    <None Include="Icons\Viaggi Cestino pieno.ico" />
+    <None Include="Icons\Viaggi Cestino vuoto.ico" />
+    <None Include="Icons\All%27interno del computer Cestino pieno.ico" />
+    <None Include="Icons\All%27interno del computer Cestino vuoto.ico" />
+    <None Include="Icons\transfer.ico" />
+    <None Include="Icons\der.ico" />
+    <None Include="Icons\Check1.ico" />
+    <None Include="Icons\DISK06.ICO" />
+    <None Include="Icons\ksirtet.ico" />
+    <None Include="Icons\mime_colorset.ico" />
+    <None Include="Icons\TASKL.ICO" />
+    <None Include="Icons\Recycle.ico" />
+    <None Include="Icons\Bookmark.ico" />
+    <None Include="Icons\BookmarkPrev.ico" />
+    <None Include="Icons\BookmarkNext.ico" />
+    <None Include="Icons\Elenchi materiale.ico" />
+    <None Include="Icons\tempario.ico" />
+    <None Include="Icons\Inserimento iva.ico" />
+    <None Include="Icons\Reverse.ico" />
+    <None Include="Icons\FastForward.ico" />
+    <None Include="Icons\BookmarkClear.ico" />
+    <None Include="Icons\Elenchi materiale1.ico" />
+    <None Include="Icons\Check3.ico" />
+    <Content Include="Learnings.txt" />
+    <None Include="Resources\EXITEML.ICO" />
+    <None Include="Resources\Edit.ico" />
+    <None Include="Resources\DOCL.ICO" />
+    <None Include="Resources\Search.ico" />
+    <None Include="Resources\BookmarkNext.ico" />
+    <None Include="Resources\BookmarkPrev.ico" />
+    <None Include="Resources\0011 - Start Favorites.ico" />
+    <None Include="Resources\0005 - Favorites.ico" />
+    <None Include="Resources\addToCart.gif" />
+    <None Include="Resources\moveSavedToCart.gif" />
+    <None Include="Resources\cartEmpty.gif" />
+    <None Include="Resources\cartFull.gif" />
+    <None Include="Resources\ARW10NE.ICO" />
+    <None Include="Resources\ARW10SE.ICO" />
+    <None Include="Resources\safe.ico" />
+    <None Include="Resources\Print.bmp" />
+    <None Include="Resources\Excel-16.gif" />
+    <None Include="Resources\Image1.jpg" />
+    <EmbeddedResource Include="Forms\frmReadYF_MR.resx">
+      <DependentUpon>frmReadYF_MR.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmDataImport.resx">
+      <DependentUpon>frmDataImport.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmDateTime.resx">
+      <DependentUpon>frmDateTime.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmMngStockPrice.resx">
+      <DependentUpon>frmMngStockPrice.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmMngStocks.resx">
+      <DependentUpon>frmMngStocks.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmReadBSE.resx">
+      <DependentUpon>frmReadBSE.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmCatGraph.resx">
+      <DependentUpon>frmCatGraph.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmAc.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmAc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmWorkSheet.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmWorkSheet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmlAvgView.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmlAvgView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmTrendGr.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmTrendGr.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmTradingHist.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmTradingHist.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmYahoo.resx">
+      <DependentUpon>frmYahoo.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\PrintOptions.resx">
+      <DependentUpon>PrintOptions.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Pics\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

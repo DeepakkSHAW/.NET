@@ -1,0 +1,13 @@
+C:\Documents and Settings\dshaw2\Desktop\TreeListView_Sources1\TreeListView\TreeListView\bin\Debug\System.Windows.Forms.TreeListView.dll
+C:\Documents and Settings\dshaw2\Desktop\TreeListView_Sources1\TreeListView\TreeListView\bin\Debug\System.Windows.Forms.TreeListView.pdb
+C:\Documents and Settings\dshaw2\Desktop\TreeListView_Sources1\TreeListView\TreeListView\bin\Debug\System.Windows.Forms.TreeListView.xml
+C:\Documents and Settings\dshaw2\Desktop\TreeListView_Sources1\TreeListView\TreeListView\bin\Debug\System.Runtime.InteropServices.APIs.dll
+C:\Documents and Settings\dshaw2\Desktop\TreeListView_Sources1\TreeListView\TreeListView\bin\Debug\System.Runtime.InteropServices.APIs.pdb
+C:\Documents and Settings\dshaw2\Desktop\TreeListView_Sources1\TreeListView\TreeListView\bin\Debug\System.Runtime.InteropServices.APIs.xml
+C:\Documents and Settings\dshaw2\Desktop\TreeListView_Sources1\TreeListView\TreeListView\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\dshaw2\Desktop\TreeListView_Sources1\TreeListView\TreeListView\obj\Debug\System.Windows.Forms.TreeListViewItemsEditorForm.resources
+C:\Documents and Settings\dshaw2\Desktop\TreeListView_Sources1\TreeListView\TreeListView\obj\Debug\System.Windows.Forms.TreeListView.resources
+C:\Documents and Settings\dshaw2\Desktop\TreeListView_Sources1\TreeListView\TreeListView\obj\Debug\System.Windows.Forms.CustomEdit.resources
+C:\Documents and Settings\dshaw2\Desktop\TreeListView_Sources1\TreeListView\TreeListView\obj\Debug\TreeListView2002.csproj.GenerateResource.Cache
+C:\Documents and Settings\dshaw2\Desktop\TreeListView_Sources1\TreeListView\TreeListView\obj\Debug\System.Windows.Forms.TreeListView.dll
+C:\Documents and Settings\dshaw2\Desktop\TreeListView_Sources1\TreeListView\TreeListView\obj\Debug\System.Windows.Forms.TreeListView.pdb

@@ -1,0 +1,5 @@
+C:\DKLAB\DeepakNET\MyShop\MyShop
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=MyShop
+--content-root=C:\DKLAB\DeepakNET\MyShop\MyShop
+--file=

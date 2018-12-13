@@ -1,0 +1,11 @@
+C:\DKLAB\DeepakNET\StudentsAPI\StudentsAPI\bin\Debug\netcoreapp2.0\StudentsAPI.deps.json
+C:\DKLAB\DeepakNET\StudentsAPI\StudentsAPI\bin\Debug\netcoreapp2.0\StudentsAPI.runtimeconfig.json
+C:\DKLAB\DeepakNET\StudentsAPI\StudentsAPI\bin\Debug\netcoreapp2.0\StudentsAPI.runtimeconfig.dev.json
+C:\DKLAB\DeepakNET\StudentsAPI\StudentsAPI\bin\Debug\netcoreapp2.0\StudentsAPI.dll
+C:\DKLAB\DeepakNET\StudentsAPI\StudentsAPI\bin\Debug\netcoreapp2.0\StudentsAPI.pdb
+C:\DKLAB\DeepakNET\StudentsAPI\StudentsAPI\obj\Debug\netcoreapp2.0\StudentsAPI.csprojResolveAssemblyReference.cache
+C:\DKLAB\DeepakNET\StudentsAPI\StudentsAPI\obj\Debug\netcoreapp2.0\StudentsAPI.csproj.CoreCompileInputs.cache
+C:\DKLAB\DeepakNET\StudentsAPI\StudentsAPI\obj\Debug\netcoreapp2.0\StudentsAPI.AssemblyInfoInputs.cache
+C:\DKLAB\DeepakNET\StudentsAPI\StudentsAPI\obj\Debug\netcoreapp2.0\StudentsAPI.AssemblyInfo.cs
+C:\DKLAB\DeepakNET\StudentsAPI\StudentsAPI\obj\Debug\netcoreapp2.0\StudentsAPI.dll
+C:\DKLAB\DeepakNET\StudentsAPI\StudentsAPI\obj\Debug\netcoreapp2.0\StudentsAPI.pdb

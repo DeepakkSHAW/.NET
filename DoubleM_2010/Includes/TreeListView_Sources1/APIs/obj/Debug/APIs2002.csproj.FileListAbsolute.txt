@@ -1,0 +1,6 @@
+C:\Documents and Settings\dshaw2\Desktop\TreeListView_Sources1\APIs\bin\debug\System.Runtime.InteropServices.APIs.xml
+C:\Documents and Settings\dshaw2\Desktop\TreeListView_Sources1\APIs\bin\Debug\System.Runtime.InteropServices.APIs.dll
+C:\Documents and Settings\dshaw2\Desktop\TreeListView_Sources1\APIs\bin\Debug\System.Runtime.InteropServices.APIs.pdb
+C:\Documents and Settings\dshaw2\Desktop\TreeListView_Sources1\APIs\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\dshaw2\Desktop\TreeListView_Sources1\APIs\obj\Debug\System.Runtime.InteropServices.APIs.dll
+C:\Documents and Settings\dshaw2\Desktop\TreeListView_Sources1\APIs\obj\Debug\System.Runtime.InteropServices.APIs.pdb

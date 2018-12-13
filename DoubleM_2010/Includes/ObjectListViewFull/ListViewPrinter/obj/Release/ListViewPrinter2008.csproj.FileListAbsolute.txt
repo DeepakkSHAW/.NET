@@ -1,0 +1,9 @@
+E:\DoubleM\Includes\ObjectListViewFull\ListViewPrinter\bin\Release\ListViewPrinter.dll
+E:\DoubleM\Includes\ObjectListViewFull\ListViewPrinter\bin\Release\ListViewPrinter.pdb
+E:\DoubleM\Includes\ObjectListViewFull\ListViewPrinter\bin\Release\ObjectListView.dll
+E:\DoubleM\Includes\ObjectListViewFull\ListViewPrinter\bin\Release\ObjectListView.pdb
+E:\DoubleM\Includes\ObjectListViewFull\ListViewPrinter\obj\Release\ResolveAssemblyReference.cache
+E:\DoubleM\Includes\ObjectListViewFull\ListViewPrinter\obj\Release\BrightIdeasSoftware.BrushForm.resources
+E:\DoubleM\Includes\ObjectListViewFull\ListViewPrinter\obj\Release\ListViewPrinter2008.csproj.GenerateResource.Cache
+E:\DoubleM\Includes\ObjectListViewFull\ListViewPrinter\obj\Release\ListViewPrinter.dll
+E:\DoubleM\Includes\ObjectListViewFull\ListViewPrinter\obj\Release\ListViewPrinter.pdb

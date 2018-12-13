@@ -1,0 +1,37 @@
+1. How to use a query having parameters TRUE false can be use in such a way to get both true and false value togather.
+2. How to select all items in Listbox
+3. All about datagridview: http://www.codeproject.com/KB/books/PresentDataDataGridView.aspx
+4. copy yo clipboead: Computer.Clipboard.SetText(TextBox1.Text)
+
+
+INFOS:
+Look stocks as sectors wise:
+http://www.moneycontrol.com/stocks/marketstats/indcomp.php?optex=NSE&indcode=Sugar
+
+Listview and Dataset
+DataSet dataSet = new DataSet();
+DataListView dataListView = new DataListView();
+// let windows designer place the control (dataListView) on the screen...
+// initialize dataSet with some data...
+dataListView.DataSource = dataSet; // show the data on the control
+dataListView.DataMember = "TableNameInDataSet"; // set the data member
+
+//Databinding Tips: Nesting Eval Statements
+
+<%# Eval("First", "{0}, ") %>
+<%# Eval("First").GetType() == typeof(DBNull) ? "" : Eval("Second", "({0})")%>
+
+<%# Eval("First", "{0}, " + Eval("Second", "({0})")) %>
+
+//Format always returns String, CDate, CStr,SDbl etc to convert back the values to origal datatype.
+
+//Use Path.DirectorySeparatorChar rather '/' or '//'
+// Use form.AcceptButton and CancelButton for OK and ESC - Handly to use.
+
+//Dynamic Array
+//ArrayList myList = new ArrayList();myList.Add("Hello");
+//for(i=0; iConsole.WriteLine("Array Index [{0}]: {1}", i, myList[i].ToString());
+
+
+Known Bugs:
+Profite & Loss >> select a script and select last year adn load gives error

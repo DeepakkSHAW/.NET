@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoubleM", "DoubleM.csproj", "{FD7C2AB3-385A-4FE5-B467-9886D8F2585B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "DoubleMSetup", "DoubleMSetup\DoubleMSetup.vdproj", "{08251122-0756-4DD7-8F02-D441EF4CE59A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD7C2AB3-385A-4FE5-B467-9886D8F2585B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD7C2AB3-385A-4FE5-B467-9886D8F2585B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD7C2AB3-385A-4FE5-B467-9886D8F2585B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD7C2AB3-385A-4FE5-B467-9886D8F2585B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08251122-0756-4DD7-8F02-D441EF4CE59A}.Debug|Any CPU.ActiveCfg = Debug
+		{08251122-0756-4DD7-8F02-D441EF4CE59A}.Debug|Any CPU.Build.0 = Debug
+		{08251122-0756-4DD7-8F02-D441EF4CE59A}.Release|Any CPU.ActiveCfg = Release
+		{08251122-0756-4DD7-8F02-D441EF4CE59A}.Release|Any CPU.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

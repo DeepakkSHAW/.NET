@@ -1,0 +1,11 @@
+C:\DKLAB\DeepakNET\DKBank.API\DKBank.API\bin\Debug\netcoreapp2.0\DKBank.API.deps.json
+C:\DKLAB\DeepakNET\DKBank.API\DKBank.API\bin\Debug\netcoreapp2.0\DKBank.API.runtimeconfig.json
+C:\DKLAB\DeepakNET\DKBank.API\DKBank.API\bin\Debug\netcoreapp2.0\DKBank.API.runtimeconfig.dev.json
+C:\DKLAB\DeepakNET\DKBank.API\DKBank.API\bin\Debug\netcoreapp2.0\DKBank.API.dll
+C:\DKLAB\DeepakNET\DKBank.API\DKBank.API\bin\Debug\netcoreapp2.0\DKBank.API.pdb
+C:\DKLAB\DeepakNET\DKBank.API\DKBank.API\obj\Debug\netcoreapp2.0\DKBank.API.csprojResolveAssemblyReference.cache
+C:\DKLAB\DeepakNET\DKBank.API\DKBank.API\obj\Debug\netcoreapp2.0\DKBank.API.csproj.CoreCompileInputs.cache
+C:\DKLAB\DeepakNET\DKBank.API\DKBank.API\obj\Debug\netcoreapp2.0\DKBank.API.AssemblyInfoInputs.cache
+C:\DKLAB\DeepakNET\DKBank.API\DKBank.API\obj\Debug\netcoreapp2.0\DKBank.API.AssemblyInfo.cs
+C:\DKLAB\DeepakNET\DKBank.API\DKBank.API\obj\Debug\netcoreapp2.0\DKBank.API.dll
+C:\DKLAB\DeepakNET\DKBank.API\DKBank.API\obj\Debug\netcoreapp2.0\DKBank.API.pdb

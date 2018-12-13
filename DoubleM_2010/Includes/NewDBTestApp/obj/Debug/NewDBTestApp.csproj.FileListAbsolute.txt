@@ -1,0 +1,69 @@
+C:\Documents and Settings\dshaw2\Local Settings\Application Data\Temporary Projects\NewDBTestApp\bin\Debug\Stock.mdb
+C:\Documents and Settings\dshaw2\Local Settings\Application Data\Temporary Projects\NewDBTestApp\bin\Debug\NewDBTestApp.exe.config
+C:\Documents and Settings\dshaw2\Local Settings\Application Data\Temporary Projects\NewDBTestApp\bin\Debug\NewDBTestApp.exe
+C:\Documents and Settings\dshaw2\Local Settings\Application Data\Temporary Projects\NewDBTestApp\bin\Debug\NewDBTestApp.pdb
+C:\Documents and Settings\dshaw2\Local Settings\Application Data\Temporary Projects\NewDBTestApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\dshaw2\Local Settings\Application Data\Temporary Projects\NewDBTestApp\obj\Debug\NewDBTestApp.Form1.resources
+C:\Documents and Settings\dshaw2\Local Settings\Application Data\Temporary Projects\NewDBTestApp\obj\Debug\NewDBTestApp.Properties.Resources.resources
+C:\Documents and Settings\dshaw2\Local Settings\Application Data\Temporary Projects\NewDBTestApp\obj\Debug\NewDBTestApp.csproj.GenerateResource.Cache
+C:\Documents and Settings\dshaw2\Local Settings\Application Data\Temporary Projects\NewDBTestApp\obj\Debug\NewDBTestApp.exe
+C:\Documents and Settings\dshaw2\Local Settings\Application Data\Temporary Projects\NewDBTestApp\obj\Debug\NewDBTestApp.pdb
+c:\Documents and Settings\dshaw2\My Documents\Visual Studio 2008\Projects\NewDBTestApp\bin\Debug\NewDBTestApp.exe.config
+c:\Documents and Settings\dshaw2\My Documents\Visual Studio 2008\Projects\NewDBTestApp\obj\Debug\NewDBTestApp.exe
+c:\Documents and Settings\dshaw2\My Documents\Visual Studio 2008\Projects\NewDBTestApp\obj\Debug\NewDBTestApp.pdb
+c:\Documents and Settings\dshaw2\My Documents\Visual Studio 2008\Projects\NewDBTestApp\obj\Debug\ResolveAssemblyReference.cache
+c:\Documents and Settings\dshaw2\My Documents\Visual Studio 2008\Projects\NewDBTestApp\obj\Debug\NewDBTestApp.Form1.resources
+c:\Documents and Settings\dshaw2\My Documents\Visual Studio 2008\Projects\NewDBTestApp\obj\Debug\NewDBTestApp.Form2.resources
+c:\Documents and Settings\dshaw2\My Documents\Visual Studio 2008\Projects\NewDBTestApp\obj\Debug\NewDBTestApp.Properties.Resources.resources
+c:\Documents and Settings\dshaw2\My Documents\Visual Studio 2008\Projects\NewDBTestApp\obj\Debug\NewDBTestApp.csproj.GenerateResource.Cache
+c:\Documents and Settings\dshaw2\My Documents\Visual Studio 2008\Projects\NewDBTestApp\bin\Debug\Stock.mdb
+c:\Documents and Settings\dshaw2\My Documents\Visual Studio 2008\Projects\NewDBTestApp\bin\Debug\NewDBTestApp.exe
+c:\Documents and Settings\dshaw2\My Documents\Visual Studio 2008\Projects\NewDBTestApp\bin\Debug\NewDBTestApp.pdb
+c:\Documents and Settings\dshaw2\My Documents\Visual Studio 2008\Projects\NewDBTestApp\obj\Debug\NewDBTestApp.Form3.resources
+c:\Documents and Settings\dshaw2\My Documents\Visual Studio 2008\Projects\NewDBTestApp\obj\Debug\NewDBTestApp.Form4.resources
+c:\Documents and Settings\dshaw2\My Documents\Visual Studio 2008\Projects\NewDBTestApp\obj\Debug\NewDBTestApp.Form5.resources
+c:\Documents and Settings\dshaw2\My Documents\Visual Studio 2008\Projects\NewDBTestApp\bin\Debug\ObjectListView.dll
+c:\Documents and Settings\dshaw2\My Documents\Visual Studio 2008\Projects\NewDBTestApp\obj\Debug\NewDBTestApp.Form6.resources
+c:\Documents and Settings\dshaw2\My Documents\Visual Studio 2008\Projects\NewDBTestApp\obj\Debug\NewDBTestApp.BulkInsert.resources
+c:\Documents and Settings\dshaw2\My Documents\Visual Studio 2008\Projects\NewDBTestApp\obj\Debug\NewDBTestApp.Form7.resources
+c:\Documents and Settings\dshaw2\My Documents\Visual Studio 2008\Projects\NewDBTestApp\bin\Debug\System.Windows.Forms.TreeListView.dll
+c:\Documents and Settings\dshaw2\My Documents\Visual Studio 2008\Projects\NewDBTestApp\bin\Debug\System.Windows.Forms.TreeListView.pdb
+c:\Documents and Settings\dshaw2\My Documents\Visual Studio 2008\Projects\NewDBTestApp\bin\Debug\System.Windows.Forms.TreeListView.xml
+H:\Temp\NewDBTestApp\bin\Debug\NewDBTestApp.exe.config
+H:\Temp\NewDBTestApp\obj\Debug\NewDBTestApp.exe
+H:\Temp\NewDBTestApp\obj\Debug\NewDBTestApp.pdb
+H:\Temp\NewDBTestApp\bin\Debug\Stock.mdb
+H:\Temp\NewDBTestApp\bin\Debug\NewDBTestApp.exe
+H:\Temp\NewDBTestApp\bin\Debug\NewDBTestApp.pdb
+H:\Temp\NewDBTestApp\bin\Debug\System.Windows.Forms.TreeListView.pdb
+H:\Temp\NewDBTestApp\bin\Debug\System.Windows.Forms.TreeListView.xml
+H:\Temp\NewDBTestApp\obj\Debug\ResolveAssemblyReference.cache
+H:\Temp\NewDBTestApp\obj\Debug\NewDBTestApp.BulkInsert.resources
+H:\Temp\NewDBTestApp\obj\Debug\NewDBTestApp.Form1.resources
+H:\Temp\NewDBTestApp\obj\Debug\NewDBTestApp.Form2.resources
+H:\Temp\NewDBTestApp\obj\Debug\NewDBTestApp.Form3.resources
+H:\Temp\NewDBTestApp\obj\Debug\NewDBTestApp.Form4.resources
+H:\Temp\NewDBTestApp\obj\Debug\NewDBTestApp.Form5.resources
+H:\Temp\NewDBTestApp\obj\Debug\NewDBTestApp.Form6.resources
+H:\Temp\NewDBTestApp\obj\Debug\NewDBTestApp.Form7.resources
+H:\Temp\NewDBTestApp\obj\Debug\NewDBTestApp.Properties.Resources.resources
+H:\Temp\NewDBTestApp\obj\Debug\NewDBTestApp.csproj.GenerateResource.Cache
+c:\Deepak\DoubleM\Includes\NewDBTestApp\bin\Debug\NewDBTestApp.exe.config
+c:\Deepak\DoubleM\Includes\NewDBTestApp\obj\Debug\NewDBTestApp.exe
+c:\Deepak\DoubleM\Includes\NewDBTestApp\obj\Debug\NewDBTestApp.pdb
+c:\Deepak\DoubleM\Includes\NewDBTestApp\bin\Debug\Stock.mdb
+c:\Deepak\DoubleM\Includes\NewDBTestApp\bin\Debug\NewDBTestApp.exe
+c:\Deepak\DoubleM\Includes\NewDBTestApp\bin\Debug\NewDBTestApp.pdb
+c:\Deepak\DoubleM\Includes\NewDBTestApp\bin\Debug\System.Windows.Forms.TreeListView.dll
+c:\Deepak\DoubleM\Includes\NewDBTestApp\bin\Debug\System.Windows.Forms.TreeListView.pdb
+c:\Deepak\DoubleM\Includes\NewDBTestApp\bin\Debug\System.Windows.Forms.TreeListView.xml
+c:\Deepak\DoubleM\Includes\NewDBTestApp\obj\Debug\ResolveAssemblyReference.cache
+c:\Deepak\DoubleM\Includes\NewDBTestApp\obj\Debug\NewDBTestApp.BulkInsert.resources
+c:\Deepak\DoubleM\Includes\NewDBTestApp\obj\Debug\NewDBTestApp.Form1.resources
+c:\Deepak\DoubleM\Includes\NewDBTestApp\obj\Debug\NewDBTestApp.Form3.resources
+c:\Deepak\DoubleM\Includes\NewDBTestApp\obj\Debug\NewDBTestApp.Form4.resources
+c:\Deepak\DoubleM\Includes\NewDBTestApp\obj\Debug\NewDBTestApp.Form5.resources
+c:\Deepak\DoubleM\Includes\NewDBTestApp\obj\Debug\NewDBTestApp.Form6.resources
+c:\Deepak\DoubleM\Includes\NewDBTestApp\obj\Debug\NewDBTestApp.Form7.resources
+c:\Deepak\DoubleM\Includes\NewDBTestApp\obj\Debug\NewDBTestApp.Properties.Resources.resources
+c:\Deepak\DoubleM\Includes\NewDBTestApp\obj\Debug\NewDBTestApp.csproj.GenerateResource.Cache

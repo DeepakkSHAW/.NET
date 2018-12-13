@@ -1,0 +1,11 @@
+C:\DKLAB\DeepakNET\HelloWorldNetCore\HelloWorldNetCore\bin\Release\netcoreapp2.0\HelloWorldNetCore.deps.json
+C:\DKLAB\DeepakNET\HelloWorldNetCore\HelloWorldNetCore\bin\Release\netcoreapp2.0\HelloWorldNetCore.runtimeconfig.json
+C:\DKLAB\DeepakNET\HelloWorldNetCore\HelloWorldNetCore\bin\Release\netcoreapp2.0\HelloWorldNetCore.runtimeconfig.dev.json
+C:\DKLAB\DeepakNET\HelloWorldNetCore\HelloWorldNetCore\bin\Release\netcoreapp2.0\HelloWorldNetCore.dll
+C:\DKLAB\DeepakNET\HelloWorldNetCore\HelloWorldNetCore\bin\Release\netcoreapp2.0\HelloWorldNetCore.pdb
+C:\DKLAB\DeepakNET\HelloWorldNetCore\HelloWorldNetCore\obj\Release\netcoreapp2.0\HelloWorldNetCore.csprojResolveAssemblyReference.cache
+C:\DKLAB\DeepakNET\HelloWorldNetCore\HelloWorldNetCore\obj\Release\netcoreapp2.0\HelloWorldNetCore.csproj.CoreCompileInputs.cache
+C:\DKLAB\DeepakNET\HelloWorldNetCore\HelloWorldNetCore\obj\Release\netcoreapp2.0\HelloWorldNetCore.AssemblyInfoInputs.cache
+C:\DKLAB\DeepakNET\HelloWorldNetCore\HelloWorldNetCore\obj\Release\netcoreapp2.0\HelloWorldNetCore.AssemblyInfo.cs
+C:\DKLAB\DeepakNET\HelloWorldNetCore\HelloWorldNetCore\obj\Release\netcoreapp2.0\HelloWorldNetCore.dll
+C:\DKLAB\DeepakNET\HelloWorldNetCore\HelloWorldNetCore\obj\Release\netcoreapp2.0\HelloWorldNetCore.pdb

@@ -1,0 +1,8 @@
+C:\Deepak\DoubleM\Includes\ReadFromBSE\ReadFromBSE\bin\Debug\ReadFromBSE.exe
+C:\Deepak\DoubleM\Includes\ReadFromBSE\ReadFromBSE\bin\Debug\ReadFromBSE.pdb
+C:\Deepak\DoubleM\Includes\ReadFromBSE\ReadFromBSE\obj\Debug\ResolveAssemblyReference.cache
+C:\Deepak\DoubleM\Includes\ReadFromBSE\ReadFromBSE\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Deepak\DoubleM\Includes\ReadFromBSE\ReadFromBSE\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Deepak\DoubleM\Includes\ReadFromBSE\ReadFromBSE\obj\Debug\ReadFromBSE.csproj.GenerateResource.Cache
+C:\Deepak\DoubleM\Includes\ReadFromBSE\ReadFromBSE\obj\Debug\ReadFromBSE.exe
+C:\Deepak\DoubleM\Includes\ReadFromBSE\ReadFromBSE\obj\Debug\ReadFromBSE.pdb

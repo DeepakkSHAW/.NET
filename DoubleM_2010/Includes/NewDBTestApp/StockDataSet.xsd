@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="StockDataSet" targetNamespace="http://tempuri.org/StockDataSet.xsd" xmlns:mstns="http://tempuri.org/StockDataSet.xsd" xmlns="http://tempuri.org/StockDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="StockConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="StockConnectionString (Settings)" PropertyReference="ApplicationSettings.NewDBTestApp.Properties.Settings.GlobalReference.Default.StockConnectionString" Provider="System.Data.OleDb" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="QryCatStocksTableAdapter" GeneratorDataComponentClassName="QryCatStocksTableAdapter" Name="QryCatStocks" UserDataComponentName="QryCatStocksTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="StockConnectionString (Settings)" DbObjectName="QryCatStocks" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT Category, StockCatID, StockName, ShortName, Active FROM QryCatStocks</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Category" DataSetColumn="Category" />
+              <Mapping SourceColumn="StockCatID" DataSetColumn="StockCatID" />
+              <Mapping SourceColumn="StockName" DataSetColumn="StockName" />
+              <Mapping SourceColumn="ShortName" DataSetColumn="ShortName" />
+              <Mapping SourceColumn="Active" DataSetColumn="Active" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="StockDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_DataSetName="StockDataSet" msprop:Generator_UserDSName="StockDataSet" msprop:EnableTableAdapterManager="True">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="QryCatStocks" msprop:Generator_UserTableName="QryCatStocks" msprop:Generator_RowDeletedName="QryCatStocksRowDeleted" msprop:Generator_TableClassName="QryCatStocksDataTable" msprop:Generator_RowChangedName="QryCatStocksRowChanged" msprop:Generator_RowClassName="QryCatStocksRow" msprop:Generator_RowChangingName="QryCatStocksRowChanging" msprop:Generator_RowEvArgName="QryCatStocksRowChangeEvent" msprop:Generator_RowEvHandlerName="QryCatStocksRowChangeEventHandler" msprop:Generator_TablePropName="QryCatStocks" msprop:Generator_TableVarName="tableQryCatStocks" msprop:Generator_RowDeletingName="QryCatStocksRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Category" msprop:Generator_UserColumnName="Category" msprop:Generator_ColumnPropNameInRow="Category" msprop:Generator_ColumnVarNameInTable="columnCategory" msprop:Generator_ColumnPropNameInTable="CategoryColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="StockCatID" msprop:Generator_UserColumnName="StockCatID" msprop:Generator_ColumnPropNameInRow="StockCatID" msprop:Generator_ColumnVarNameInTable="columnStockCatID" msprop:Generator_ColumnPropNameInTable="StockCatIDColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="StockName" msprop:Generator_UserColumnName="StockName" msprop:Generator_ColumnPropNameInRow="StockName" msprop:Generator_ColumnVarNameInTable="columnStockName" msprop:Generator_ColumnPropNameInTable="StockNameColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ShortName" msprop:Generator_UserColumnName="ShortName" msprop:Generator_ColumnPropNameInRow="ShortName" msprop:Generator_ColumnVarNameInTable="columnShortName" msprop:Generator_ColumnPropNameInTable="ShortNameColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Active" msprop:Generator_UserColumnName="Active" msprop:Generator_ColumnPropNameInRow="Active" msprop:Generator_ColumnVarNameInTable="columnActive" msprop:Generator_ColumnPropNameInTable="ActiveColumn" type="xs:boolean" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

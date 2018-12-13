@@ -1,0 +1,10 @@
+C:\Documents and Settings\dshaw2\Desktop\FormSlider\SlideForm\bin\Release\SlideForm.dll
+C:\Documents and Settings\dshaw2\Desktop\FormSlider\SlideForm\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\dshaw2\Desktop\FormSlider\SlideForm\obj\Release\SlideDialog.SlideDialog.resources
+C:\Documents and Settings\dshaw2\Desktop\FormSlider\SlideForm\obj\Release\SlideForm.csproj.GenerateResource.Cache
+C:\Documents and Settings\dshaw2\Desktop\FormSlider\SlideForm\obj\Release\SlideForm.dll
+C:\Deepak\DoubleM\Includes\SlideForm\bin\Release\SlideForm.dll
+C:\Deepak\DoubleM\Includes\SlideForm\obj\Release\ResolveAssemblyReference.cache
+C:\Deepak\DoubleM\Includes\SlideForm\obj\Release\SlideDialog.SlideDialog.resources
+C:\Deepak\DoubleM\Includes\SlideForm\obj\Release\SlideForm.csproj.GenerateResource.Cache
+C:\Deepak\DoubleM\Includes\SlideForm\obj\Release\SlideForm.dll

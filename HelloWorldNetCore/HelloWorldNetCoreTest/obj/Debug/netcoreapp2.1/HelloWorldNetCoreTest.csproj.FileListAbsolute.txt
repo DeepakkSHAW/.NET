@@ -1,0 +1,10 @@
+C:\DKLAB\DeepakNET\HelloWorldNetCore\HelloWorldNetCoreTest\bin\Debug\netcoreapp2.1\HelloWorldNetCoreTest.deps.json
+C:\DKLAB\DeepakNET\HelloWorldNetCore\HelloWorldNetCoreTest\bin\Debug\netcoreapp2.1\HelloWorldNetCoreTest.runtimeconfig.json
+C:\DKLAB\DeepakNET\HelloWorldNetCore\HelloWorldNetCoreTest\bin\Debug\netcoreapp2.1\HelloWorldNetCoreTest.runtimeconfig.dev.json
+C:\DKLAB\DeepakNET\HelloWorldNetCore\HelloWorldNetCoreTest\bin\Debug\netcoreapp2.1\HelloWorldNetCoreTest.dll
+C:\DKLAB\DeepakNET\HelloWorldNetCore\HelloWorldNetCoreTest\bin\Debug\netcoreapp2.1\HelloWorldNetCoreTest.pdb
+C:\DKLAB\DeepakNET\HelloWorldNetCore\HelloWorldNetCoreTest\obj\Debug\netcoreapp2.1\HelloWorldNetCoreTest.csproj.CoreCompileInputs.cache
+C:\DKLAB\DeepakNET\HelloWorldNetCore\HelloWorldNetCoreTest\obj\Debug\netcoreapp2.1\HelloWorldNetCoreTest.AssemblyInfoInputs.cache
+C:\DKLAB\DeepakNET\HelloWorldNetCore\HelloWorldNetCoreTest\obj\Debug\netcoreapp2.1\HelloWorldNetCoreTest.AssemblyInfo.cs
+C:\DKLAB\DeepakNET\HelloWorldNetCore\HelloWorldNetCoreTest\obj\Debug\netcoreapp2.1\HelloWorldNetCoreTest.dll
+C:\DKLAB\DeepakNET\HelloWorldNetCore\HelloWorldNetCoreTest\obj\Debug\netcoreapp2.1\HelloWorldNetCoreTest.pdb

@@ -1,0 +1,6 @@
+C:\DKLAB\DeepakNET\CompressXml\CompressXml\bin\Debug\CompressXml.exe.config
+C:\DKLAB\DeepakNET\CompressXml\CompressXml\bin\Debug\CompressXml.exe
+C:\DKLAB\DeepakNET\CompressXml\CompressXml\bin\Debug\CompressXml.pdb
+C:\DKLAB\DeepakNET\CompressXml\CompressXml\obj\Debug\CompressXml.csprojResolveAssemblyReference.cache
+C:\DKLAB\DeepakNET\CompressXml\CompressXml\obj\Debug\CompressXml.exe
+C:\DKLAB\DeepakNET\CompressXml\CompressXml\obj\Debug\CompressXml.pdb
